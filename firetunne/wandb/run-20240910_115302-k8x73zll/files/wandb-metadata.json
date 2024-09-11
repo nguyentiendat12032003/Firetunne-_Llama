@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.6",
+    "heartbeatAt": "2024-09-10T04:53:03.523781",
+    "startedAt": "2024-09-10T04:53:02.590920",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\nguye\\OneDrive\\Desktop\\firetunne-LLMs-\\firetunne\\training.py",
+    "codePathLocal": "training.py",
+    "codePath": "firetunne\\training.py",
+    "git": {
+        "remote": "https://github.com/nguyentiendat12032003/firetunne-LLMs-.git",
+        "commit": "a1cf3fd82f73d9591ac4f435e4119136b53a8816"
+    },
+    "email": "nguyentiendatlop78@gmail.com",
+    "root": "C:/Users/nguye/OneDrive/Desktop/firetunne-LLMs-",
+    "host": "NgTienDat",
+    "username": "nguye",
+    "executable": "c:\\Users\\nguye\\OneDrive\\Desktop\\firetunne-LLMs-\\.venv\\Scripts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.4749336242676,
+            "used": 470.27287673950195
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.855335235595703
+    }
+}
